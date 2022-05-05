@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @CentuFTW
-- 👀 I’m interested in web development
+- 👋 Hi, I’m @CentuFTW. I'm from Argentina and i'm 24 y/o
+- 👀 I’m interested in web development, playing the guitar, singing and videogames.
 - 🌱 I’m currently learning the odin project
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: on Instagram @centu.n
 
 <!---
